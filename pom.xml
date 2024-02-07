@@ -14,7 +14,7 @@
 	<name>awsWebServiceTest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -35,7 +35,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>webservice-app</finalName>
+		<finalName>awsWebServiceTest</finalName>
 	</build>
 
 </project>
